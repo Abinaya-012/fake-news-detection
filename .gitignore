@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (optional)
+outputs/*.joblib
+
+# Environment variables
+.env
+
