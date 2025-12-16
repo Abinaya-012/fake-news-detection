@@ -12,7 +12,7 @@ To classify news articles as Fake or Real using NLP and Machine Learning.
 
 ## Model Used
 - TF-IDF Vectorizer
-- Logistic Regression
+- LinearSvm
 
 ## How to Run
 1. Install requirements
